@@ -1,0 +1,1 @@
+SELECT DISTINCT Genre FROM Books;
